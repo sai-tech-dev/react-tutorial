@@ -32,8 +32,8 @@ root.render(
     {/* array_state */}
     {/* <List/> */}
     {/* useEffect_hook */}
-    {/* <Timer/> */}
-    <MyForm/>
+    <Timer/>
+    {/* <MyForm/> */}
   </>
   // </React.StrictMode>
 );
