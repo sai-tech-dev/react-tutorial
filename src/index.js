@@ -21,7 +21,7 @@ root.render(
   <>
     {/* <Garage /> */}
     {/* <Header /> */}
-    {/* <App /> */}
+    <App />
 
     {/* function_state */}
     {/* <FavoriteColor /> */}
@@ -33,7 +33,7 @@ root.render(
     {/* <List/> */}
     {/* useEffect_hook */}
     {/* <Timer/> */}
-    <MyForm/>
+    {/* <MyForm/> */}
   </>
   // </React.StrictMode>
 );
