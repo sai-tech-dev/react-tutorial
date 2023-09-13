@@ -32,11 +32,7 @@ root.render(
     {/* array_state */}
     {/* <List/> */}
     {/* useEffect_hook */}
-<<<<<<< HEAD
     {/* <Timer/> */}
-=======
-    <Timer/>
->>>>>>> ed48ef1dbecaf8854d375ee9a7161a66e23686bd
     {/* <MyForm/> */}
   </>
   // </React.StrictMode>
