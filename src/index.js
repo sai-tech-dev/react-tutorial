@@ -12,6 +12,7 @@ import List from './components/List';
 import Timer from './components/Timer';
 import MyForm from './components/MyForm';
 import Car1 from './components/Car1';
+import Garage1 from './components/Garage1';
 
 
 
@@ -22,7 +23,7 @@ root.render(
     {/* <Garage /> */}
     {/* <Header /> */}
     {/* <App /> */}
-    <Car1 />
+    <Garage1 />
     {/* function_state */}
     {/* <FavoriteColor /> */}
     {/* class_state */}
