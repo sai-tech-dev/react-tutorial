@@ -11,7 +11,7 @@ import Scooter from './components/Scooter';
 import List from './components/List';
 import Timer from './components/Timer';
 import MyForm from './components/MyForm';
-
+import Car1 from './components/Car1';
 
 
 
@@ -22,7 +22,7 @@ root.render(
     {/* <Garage /> */}
     {/* <Header /> */}
     {/* <App /> */}
-
+    <Car1 />
     {/* function_state */}
     {/* <FavoriteColor /> */}
     {/* class_state */}
@@ -32,7 +32,7 @@ root.render(
     {/* array_state */}
     {/* <List/> */}
     {/* useEffect_hook */}
-    <Timer/>
+    {/* <Timer/> */}
     {/* <MyForm/> */}
   </>
   // </React.StrictMode>
