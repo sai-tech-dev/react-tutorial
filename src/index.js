@@ -11,8 +11,6 @@ import Scooter from './components/Scooter';
 import List from './components/List';
 import Timer from './components/Timer';
 import MyForm from './components/MyForm';
-import Car1 from './components/Car1';
-import Garage1 from './components/Garage1';
 
 
 
@@ -20,15 +18,9 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   // <React.StrictMode>
   <>
-    {/* <Garage /> */}
+    <Garage />
     {/* <Header /> */}
-<<<<<<< HEAD
-    <App />
-
-=======
     {/* <App /> */}
-    <Garage1 />
->>>>>>> e02a4c35ea2e82e8f10c751ece8dc68822dd9824
     {/* function_state */}
     {/* <FavoriteColor /> */}
     {/* class_state */}
