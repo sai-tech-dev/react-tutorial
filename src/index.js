@@ -19,10 +19,10 @@ root.render(
   // <React.StrictMode>
   <>
     {/* <Garage /> */}
-    <Header />
+    {/* <Header /> */}
     {/* <App /> */}
     {/* function_state */}
-    {/* <FavoriteColor /> */}
+    <FavoriteColor />
     {/* class_state */}
     {/* <CarState /> */}
     {/* multiple_state */}
