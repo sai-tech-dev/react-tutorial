@@ -18,7 +18,7 @@ function Scooter() {
     })
   }
 
-  console.log("Check State",scooter);
+  // console.log("Check State",scooter);
 
   return (
     <>
